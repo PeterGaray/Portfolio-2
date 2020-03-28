@@ -1,0 +1,101 @@
+.bigbody{
+font-family: 'Roboto';
+margin-left: 20%;
+margin-right: 15%;
+}
+
+.TopLine{
+height: 100px;
+display: flex;
+flex-direction: row;
+align-items: center;
+justify-content: space-between;
+
+}
+
+.logo{
+
+}
+
+.navbar-nav{
+  font-weight: bold;
+  font-family: 'Roboto';
+}
+
+.nav-item{
+margin-left: 20px;
+padding-right: 0px;
+}
+
+.active{
+  border-bottom: solid 3px #C20808;
+}
+
+
+.card1{
+  margin-top: 70px;
+  padding: 34px 70px;
+  background-color: #F8F8F8;
+  border-radius: 50px;
+  box-shadow: #FDC80F -10px 10px;
+  /* background-image: url("../images/card.png");
+  background-position:left bottom;
+  background-size:cover;
+  background-repeat: no-repeat; */
+
+}
+
+.BigParagraph{
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 900;
+font-size: 48px;
+line-height: 56px;
+color: #000000;
+max-width: 600px
+}
+
+.SmallParagraph{
+
+margin-top:50px;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 21px;
+font-weight: 100;
+color: #000000;
+max-width: 400px
+}
+
+b{font-weight: 900;}
+i{font-weight: 300;}
+
+.buttons{
+  margin-top: 150px;
+}
+
+.button{
+width: fit-content;
+height: 50px;
+background: #FFFFFF;
+border: 3px solid #C20808;
+box-sizing: border-box;
+border-radius: 15px;
+text-align: center;
+padding: 8px 10px 0px 10px;
+font-size: 18px;
+margin-top: 10PX;
+}
+
+.button:hover{
+  font-weight: bold;
+  box-shadow: 3px grey;
+  cursor: pointer;
+}
+
+.ImageContainer{
+}
+
+.

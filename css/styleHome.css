@@ -1,0 +1,87 @@
+.bigbody{
+font-family: 'Roboto';
+margin-left: 20%;
+margin-right: 15%;
+}
+
+.TopLine{
+height: 100px;
+display: flex;
+flex-direction: row;
+align-items: center;
+justify-content: space-between;
+
+}
+
+.logo{
+
+}
+
+.navbar-nav{
+  font-weight: bold;
+  font-family: 'Roboto';
+}
+
+.nav-item{
+margin-left: 20px;
+padding-right: 0px;
+}
+
+.active{
+  border-bottom: solid 3px #C20808;
+}
+
+
+.BigParagraph{
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 900;
+font-size: 48px;
+line-height: 56px;
+margin-top: 70px;
+color: #000000;
+max-width: 400px
+}
+
+.SmallParagraph{
+
+margin-top:50px;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 21px;
+color: #000000;
+max-width: 400px;
+font-weight: 100;
+}
+
+.buttons{
+  margin-top: 100px;
+}
+
+.button{
+width: fit-content;
+height: 50px;
+background: #FFFFFF;
+border: 3px solid #C20808;
+box-sizing: border-box;
+border-radius: 15px;
+text-align: center;
+padding: 8px 10px 0px 10px;
+font-size: 18px;
+margin-top: 10PX;
+}
+
+.button:hover{
+  font-weight: bold;
+  box-shadow: 3px grey;
+  cursor: pointer;
+}
+
+.ImageContainer{
+margin-top: 70px;
+}
+
+.
