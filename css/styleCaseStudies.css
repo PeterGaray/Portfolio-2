@@ -47,7 +47,7 @@ padding-right: 0px;
 
 .BigParagraph{
 
-font-family: Roboto;
+font-family: 'Roboto';
 font-style: normal;
 font-weight: 900;
 font-size: 48px;
@@ -59,7 +59,7 @@ max-width: 600px
 .SmallParagraph{
 
 margin-top:50px;
-font-family: Roboto;
+font-family: 'Roboto';
 font-style: normal;
 font-weight: normal;
 font-size: 18px;
@@ -97,5 +97,3 @@ margin-top: 10PX;
 
 .ImageContainer{
 }
-
-.
